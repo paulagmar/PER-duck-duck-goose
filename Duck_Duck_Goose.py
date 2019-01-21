@@ -3,7 +3,7 @@ nombres=['Laura','Ruben','Carla','Lorena','Ines','Carlos','Carol']
 
 def duck_duck_goose(nombres,numero):
     if numero<len(nombres):
-        print(nombres[numero])
+        print(nombres[numero], 'hola')
     else:
         return
     return
